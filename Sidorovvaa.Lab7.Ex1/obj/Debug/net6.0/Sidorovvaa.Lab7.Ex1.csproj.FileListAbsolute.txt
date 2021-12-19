@@ -1,0 +1,16 @@
+D:\вижуал\Sidorovvaa.Lab7.Ex1\bin\Debug\net6.0\Sidorovvaa.Lab7.Ex1.exe
+D:\вижуал\Sidorovvaa.Lab7.Ex1\bin\Debug\net6.0\Sidorovvaa.Lab7.Ex1.deps.json
+D:\вижуал\Sidorovvaa.Lab7.Ex1\bin\Debug\net6.0\Sidorovvaa.Lab7.Ex1.runtimeconfig.json
+D:\вижуал\Sidorovvaa.Lab7.Ex1\bin\Debug\net6.0\Sidorovvaa.Lab7.Ex1.dll
+D:\вижуал\Sidorovvaa.Lab7.Ex1\bin\Debug\net6.0\ref\Sidorovvaa.Lab7.Ex1.dll
+D:\вижуал\Sidorovvaa.Lab7.Ex1\bin\Debug\net6.0\Sidorovvaa.Lab7.Ex1.pdb
+D:\вижуал\Sidorovvaa.Lab7.Ex1\obj\Debug\net6.0\Sidorovvaa.Lab7.Ex1.csproj.AssemblyReference.cache
+D:\вижуал\Sidorovvaa.Lab7.Ex1\obj\Debug\net6.0\Sidorovvaa.Lab7.Ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\вижуал\Sidorovvaa.Lab7.Ex1\obj\Debug\net6.0\Sidorovvaa.Lab7.Ex1.AssemblyInfoInputs.cache
+D:\вижуал\Sidorovvaa.Lab7.Ex1\obj\Debug\net6.0\Sidorovvaa.Lab7.Ex1.AssemblyInfo.cs
+D:\вижуал\Sidorovvaa.Lab7.Ex1\obj\Debug\net6.0\Sidorovvaa.Lab7.Ex1.ImplicitNamespaceImports.cs
+D:\вижуал\Sidorovvaa.Lab7.Ex1\obj\Debug\net6.0\Sidorovvaa.Lab7.Ex1.csproj.CoreCompileInputs.cache
+D:\вижуал\Sidorovvaa.Lab7.Ex1\obj\Debug\net6.0\Sidorovvaa.Lab7.Ex1.dll
+D:\вижуал\Sidorovvaa.Lab7.Ex1\obj\Debug\net6.0\ref\Sidorovvaa.Lab7.Ex1.dll
+D:\вижуал\Sidorovvaa.Lab7.Ex1\obj\Debug\net6.0\Sidorovvaa.Lab7.Ex1.pdb
+D:\вижуал\Sidorovvaa.Lab7.Ex1\obj\Debug\net6.0\Sidorovvaa.Lab7.Ex1.genruntimeconfig.cache
