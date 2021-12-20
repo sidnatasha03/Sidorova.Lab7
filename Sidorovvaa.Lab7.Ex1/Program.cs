@@ -1,5 +1,4 @@
-﻿using System;
-using System.Linq;
+using System;
 
 namespace Sidorovaa.Lab6.Exercise2
 {
@@ -8,51 +7,35 @@ namespace Sidorovaa.Lab6.Exercise2
     {
         static void Main(string[] args)
         {
-            int count;
-            string s;
+            Console.WriteLine("1 или 2 способ?");
 
-            s = Console.ReadLine();
+            string sposob = Console.ReadLine();
 
-            //количество слов
-            int K;
-            K = 0;
-            bool wrong, space;
-            wrong = false;
-            space = false;
-            for (int i = 0; i < s.Length; i++)
+            switch (sposob)
             {
-                if (s[i] != ' ')
-                {
-                    space = false;
 
+                case "1":
 
-                    if ((s[i] >= 'a' && s[i] <= 'z') || (s[i] >= 'A' && s[i] <= 'Z'))
+                    string str = Console.ReadLine();
+                    Console.WriteLine(str.Where(x => Char.IsDigit(x)).ToArray());
+                    break;
+
+                case "2":
+
+                    
+                    string str1 = Console.ReadLine();
+                    var CharArray = str1.ToCharArray();
+                    int a = (int)'0';
+                    int b = (int)'9';
+                    for (var i = 0; i < str1.Length; i++)
                     {
-                        wrong = false;
+                        if (CharArray[i] >= a && CharArray[i] <= b)
+                        {
+                            Console.Write(CharArray[i]);
+                        }
                     }
-                    else
-                    {
-                        wrong = true;
-                    }
-                    continue;
-                }
-                else if (wrong == false && space == false)
-                {
-
-                    K++;
-
-                    space = true;
-                    wrong = false;
-                }
-
-                else if (space == false && wrong == false && s.Length > 0)
-                {
-                    K++;
-                }
+                    break;
             }
-
-
-            Console.WriteLine(K);
         }
     }
 }
