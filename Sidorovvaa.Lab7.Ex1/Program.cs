@@ -63,9 +63,11 @@ namespace Sidorovaa.Lab6.Exercise2
 
                 case "2":
 
-                    string govno = Console.ReadLine();
+                    string str = Console.ReadLine();
 
-                    Console.WriteLine(Regex.Matches(govno, @"[a-zA-Z]+").OfType<Match>().Select(m => m.Value).Count());
+                    int str1 = Regex.Matches(str, @"[a-zA-Z]+").OfType<Match>().Select(m => m.Value).Count();
+
+                    Console.WriteLine(str1);
 
                     break;
             }
